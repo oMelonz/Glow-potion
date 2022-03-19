@@ -54,10 +54,10 @@ section
     left: 5px;
     right: 5px;
     bottom: 5px;
-    background: #41c1fb;
+    background: #e93d3d;
     border-bottom-left-radius: 150px;
     border-bottom-right-radius: 150px;
-    filter: drop-shadow(0 0 60px #41c1fb);
+    filter: drop-shadow(0 0 60px #fb4141);
 }
 .liquid::before
 {
@@ -68,7 +68,7 @@ section
     height: 20px;
     background: #1fa4e0;
     border-radius: 50%;
-    filter: drop-shadow(0 0 60px #41c1fb);
+    filter: drop-shadow(0 0 60px #fb4141);
 }
 .shadow 
 {
